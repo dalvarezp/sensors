@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ctxeliminar"
+        android:title="eliminar seleccionat"
+        android:textColor = "#008fff"
+        />
+
+    <item android:id="@+id/ctxeliminartots"
+        android:title="eliminar tots"
+        />
+
+</menu>
